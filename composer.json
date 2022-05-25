@@ -9,7 +9,7 @@
         "ingenico/ogone-client": "^7.1.0"
     },
     "type": "magento2-module",
-    "version": "2.12.1",
+    "version": "2.12.4",
     "license": [
         "OSL-3.0"
     ],
